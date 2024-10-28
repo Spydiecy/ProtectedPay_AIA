@@ -2,6 +2,10 @@
 
 ProtectedPay is a secure and user-friendly platform for cryptocurrency transfers on the AIA blockchain. It provides a safety net for users, allowing them to recover funds sent to incorrect addresses while educating them about proper crypto transfer practices.
 
+## Smart Contract
+
+Deployed contract on the aia chain : https://testnet.aiascan.com/address/0xCa36dD890F987EDcE1D6D7C74Fb9df627c216BF6?tab=txs
+
 ## Features
 
 - **Secure Transfers**: Your funds are protected until the recipient claims them.
