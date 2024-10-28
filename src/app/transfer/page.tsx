@@ -81,7 +81,7 @@ export default function TransferPage() {
             />
           </div>
           <div>
-            <label htmlFor="amount" className="block mb-2 text-green-400">Amount (GAS)</label>
+            <label htmlFor="amount" className="block mb-2 text-green-400">Amount (AIA)</label>
             <input
               type="number"
               id="amount"

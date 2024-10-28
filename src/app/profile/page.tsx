@@ -131,7 +131,7 @@ export default function ProfilePage() {
             )}
             <p className="mb-2"><span className="text-green-400">Address:</span> {address}</p>
             <p>
-              <span className="text-green-400">Balance:</span> {balance ? balance : 'Loading...'} GAS
+              <span className="text-green-400">Balance:</span> {balance ? balance : 'Loading...'} AIA
             </p>
           </div>
 
@@ -198,7 +198,7 @@ export default function ProfilePage() {
                     <p><span className="text-green-400">Transaction ID:</span> {transfer.transferId}</p>
                     <p><span className="text-green-400">From:</span> {transfer.sender}</p>
                     <p><span className="text-green-400">To:</span> {transfer.recipient}</p>
-                    <p><span className="text-green-400">Amount:</span> {transfer.amount} GAS</p>
+                    <p><span className="text-green-400">Amount:</span> {transfer.amount} AIA</p>
                     <p><span className="text-green-400">Status:</span> {transfer.status}</p>
                     <p><span className="text-green-400">Date:</span> {new Date(transfer.timestamp * 1000).toLocaleString()}</p>
                   </motion.div>

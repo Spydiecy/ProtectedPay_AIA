@@ -1,6 +1,6 @@
 # ProtectedPay
 
-ProtectedPay is a secure and user-friendly platform for cryptocurrency transfers on the NeoX blockchain. It provides a safety net for users, allowing them to recover funds sent to incorrect addresses while educating them about proper crypto transfer practices.
+ProtectedPay is a secure and user-friendly platform for cryptocurrency transfers on the AIA blockchain. It provides a safety net for users, allowing them to recover funds sent to incorrect addresses while educating them about proper crypto transfer practices.
 
 ![ProtectedPay Homepage](https://example.com/protectedpay-homepage.png)
 
@@ -54,7 +54,7 @@ Check out our video demo to see ProtectedPay in action:
 
 ## Security
 
-ProtectedPay prioritizes the security of your funds. All transfers are handled through smart contracts on the NeoX blockchain, ensuring transparency and immutability. However, always exercise caution when transferring cryptocurrency and double-check all details before confirming transactions.
+ProtectedPay prioritizes the security of your funds. All transfers are handled through smart contracts on the AIA blockchain, ensuring transparency and immutability. However, always exercise caution when transferring cryptocurrency and double-check all details before confirming transactions.
 
 ## Support
 
